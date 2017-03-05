@@ -1,6 +1,6 @@
 # python-mendel
-
-This is a simple python implementation of Gregor Mendel's heredity rule
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Gregor_Mendel_oval.jpg" width="20%" height="auto"><br/>
+This is a simple python implementation of <a href="https://en.wikipedia.org/wiki/Heredity#Gregor_Mendel:_father_of_genetics"><b>Gregor Mendel's heredity rule</b></a>
 
 # Instructions :
 
